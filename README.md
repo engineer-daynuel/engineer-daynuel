@@ -4,7 +4,7 @@ Sou um estudante de programação, atualmente(2026) no meu segundo ano de faculd
 
 ---
 
-### 🛠 Tecnologias e Ferramentas
+###  Tecnologias e Ferramentas
 
 | Categoria | Tecnologias |
 | :--- | :--- |
@@ -19,9 +19,9 @@ Sou um estudante de programação, atualmente(2026) no meu segundo ano de faculd
 * **Sistema de Gerenciamento de Biblioteca (C):** Projeto desenvolvido como parte da disciplina de programação(2025), aplicando conceitos de `structs`, manipulação de arquivos e lógica de CRUD.
 
 ### 🚀 O que estou fazendo agora?
-* 🔭 Desenvolvendo projetos de portfólio focados em **APIs REST**.
-* 🌱 Aprofundando em **Orientação a Objetos (OOP)** e **Arquitetura de Sistemas**.
-* 📚 Estudando segurança em APIs (JWT e Bcrypt).
+*  Desenvolvendo projetos de portfólio focados em **APIs REST**.
+*  Aprofundando em **Orientação a Objetos (OOP)** e **Arquitetura de Sistemas**.
+*  Estudando segurança em APIs (JWT e Bcrypt).
 
 ### 📈 Meu Status
 <p align="center">
