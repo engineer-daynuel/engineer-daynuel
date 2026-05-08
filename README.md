@@ -1,10 +1,10 @@
 # Olá, eu sou o Daynuel! 👋
 
-Sou um estudante de programação, atualmente(2026) no meu segundo ano de faculdade. Apaixonado por **Desenvolvimento Backend**. Atualmente, estou focado em construir sistemas robustos, seguros e escaláveis, transitando da lógica estruturada para o ecossistema moderno de APIs.
+Sou um estudante de programação, atualmente (2026) no meu segundo ano de faculdade. Apaixonado por **Desenvolvimento Backend**. Atualmente, estou focado em construir sistemas robustos, seguros e escaláveis, transitando da lógica estruturada para o ecossistema moderno de APIs.
 
 ---
 
-###  Tecnologias e Ferramentas
+### 🛠️ Tecnologias e Ferramentas
 
 | Categoria | Tecnologias |
 | :--- | :--- |
@@ -14,14 +14,13 @@ Sou um estudante de programação, atualmente(2026) no meu segundo ano de faculd
 
 ---
 
-
 ### 🚀 Projetos em Destaque
-* **Sistema de Gerenciamento de Biblioteca (C):** Projeto desenvolvido como parte da disciplina de programação(2025), aplicando conceitos de `structs`, manipulação de arquivos e lógica de CRUD.
+* **[Sistema de Gerenciamento de Biblioteca (C)](https://github.com/engineer-daynuel/sistema-biblioteca-c):** Projeto acadêmico focado em persistência de dados, refatorado para melhor eficiência e segurança de buffer.
 
 ### 🚀 O que estou fazendo agora?
-*  Desenvolvendo projetos de portfólio focados em **APIs REST**.
-*  Aprofundando em **Orientação a Objetos (OOP)** e **Arquitetura de Sistemas**.
-*  Estudando segurança em APIs (JWT e Bcrypt).
+* Desenvolvendo projetos de portfólio focados em **APIs REST**.
+* Aprofundando em **Orientação a Objetos (OOP)** e **Arquitetura de Sistemas**.
+* Estudando segurança em APIs (JWT e Bcrypt).
 
 ### 📈 Meu Status
 <p align="center">
