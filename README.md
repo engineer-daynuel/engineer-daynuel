@@ -1,6 +1,6 @@
 # Olá, eu sou o Daynuel! 👋
 
-Sou um estudante de programação, atualmente(2026) no meu segundo ano. Apaixonado por **Desenvolvimento Backend**. Atualmente, estou focado em construir sistemas robustos, seguros e escaláveis, transitando da lógica estruturada para o ecossistema moderno de APIs.
+Sou um estudante de programação, atualmente(2026) no meu segundo ano de faculdade. Apaixonado por **Desenvolvimento Backend**. Atualmente, estou focado em construir sistemas robustos, seguros e escaláveis, transitando da lógica estruturada para o ecossistema moderno de APIs.
 
 ---
 
@@ -10,7 +10,7 @@ Sou um estudante de programação, atualmente(2026) no meu segundo ano. Apaixona
 | :--- | :--- |
 | **Linguagens** | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) |
 | **Backend & DB** | ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) |
-| **Modelagem & Tools** | ![Diagrams.net](https://img.shields.io/badge/Diagrams.net-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| **Modelagem & Tools** | ![Diagrams.net](https://img.shields.io/badge/Diagrams.net-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white) ![dbdiagram.io](https://img.shields.io/badge/dbdiagram.io-4433FF?style=for-the-badge) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
 ---
 
